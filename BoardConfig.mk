@@ -24,7 +24,7 @@
 include device/samsung/jf-common/BoardConfigCommon.mk
 
 # inherit from the proprietary version
-# -include vendor/samsung/jf-gsm-common/BoardConfigVendor.mk
+-include vendor/samsung/jf-gsm-common/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := jfvelte,jfveltexx,i9515,I9515,GT-I9515,GT-i9515,gt-i9515,I9515L,i9515L,i9515l,I9515l,gt-i9515l,GT-I9515L
+TARGET_OTA_ASSERT_DEVICE := jfvelte,jfveltexx,i9515,I9515,GT-I9515,GT-i9515,gt-i9515,I9515L,i9515L,i9515l,I9515l,gt-i9515l,GT-I9515L,jfltexx,i9505,GT-I9505,jgedlte,i9505g,GT-I9505G,jflte
