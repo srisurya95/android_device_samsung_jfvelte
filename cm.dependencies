@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_samsung_jf-common",
+    "repository": "android_device_samsung_jfvelte",
     "target_path": "device/samsung/jf-common"
   }
 ]
